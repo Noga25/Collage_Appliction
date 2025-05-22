@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiG0SJA7vFCArgCmotEEa4As/GeIB6U7TsXopadMGCjsUtxz1IX8s0cMJENQWKDLhr0lhBqRYx+EkCmvhfhIdA==",
+  "dgSpecHash": "6FoShqKkfJb+V3SMDuWFfYcdaZqdYalzKqshRNPgTdc4KENjpMTAHA+m//NJ1lZSEJBhozAbAmTFOEEWdS5lFQ==",
   "success": true,
-  "projectFilePath": "/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/CollageAplliction 2.csproj",
+  "projectFilePath": "/Applications/Collage_Appliction/CollageAplliction 2/CollageAplliction 2.csproj",
   "expectedPackageFiles": [
     "/Users/ngh/.nuget/packages/googlegson/2.9.0.1/googlegson.2.9.0.1.nupkg.sha512",
     "/Users/ngh/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",

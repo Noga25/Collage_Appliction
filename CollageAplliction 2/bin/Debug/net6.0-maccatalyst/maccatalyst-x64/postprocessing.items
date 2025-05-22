@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>CollageAplliction 2.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Applications/Collage_Appliction/CollageAplliction 2/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>CollageAplliction 2.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2</SourceProjectPath>
+      <SourceProjectPath>/Applications/Collage_Appliction/CollageAplliction 2</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

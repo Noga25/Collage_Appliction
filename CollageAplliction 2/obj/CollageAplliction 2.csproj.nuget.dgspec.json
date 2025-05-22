@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/CollageAplliction 2.csproj": {}
+    "/Applications/Collage_Appliction/CollageAplliction 2/CollageAplliction 2.csproj": {}
   },
   "projects": {
-    "/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/CollageAplliction 2.csproj": {
+    "/Applications/Collage_Appliction/CollageAplliction 2/CollageAplliction 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/CollageAplliction 2.csproj",
+        "projectUniqueName": "/Applications/Collage_Appliction/CollageAplliction 2/CollageAplliction 2.csproj",
         "projectName": "CollageAplliction 2",
-        "projectPath": "/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/CollageAplliction 2.csproj",
+        "projectPath": "/Applications/Collage_Appliction/CollageAplliction 2/CollageAplliction 2.csproj",
         "packagesPath": "/Users/ngh/.nuget/packages/",
-        "outputPath": "/Users/ngh/Projects/CollageAplliction 2/CollageAplliction 2/obj/",
+        "outputPath": "/Applications/Collage_Appliction/CollageAplliction 2/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
